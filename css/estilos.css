@@ -1,0 +1,25 @@
+#backNew {
+    background-image: url(../img/Background\ Shop.gif);
+    background-size: cover;
+}
+
+#backgroundHome {
+    background-image: url(../img/Background\ Home.gif);
+    background-position: center;
+    background-size: cover;
+}
+#backSale{
+    background-image: url(../img/Background\ Sale.gif);
+    background-size: cover;
+    
+}
+#backVerano {
+    background-image: url(../img/Pool.gif);
+    background-size: cover;
+}
+
+.btn:hover{
+    background-image: url(../img/Background\ Sale.gif);
+    background-size: cover;
+    color: black;
+}
