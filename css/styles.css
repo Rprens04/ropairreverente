@@ -3903,7 +3903,7 @@ fieldset:disabled .btn {
 
 .btn-outline-light:disabled,
 .btn-outline-light.disabled {
-  color: #f8f9fa;
+  color: #000000;
   background-color: transparent;
 }
 
