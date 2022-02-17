@@ -3913,7 +3913,7 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-dark:hover {
-  color: #fff;
+  color: rgb(0, 0, 0);
   background-color: #212529;
   border-color: #212529;
 }
