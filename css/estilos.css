@@ -1,32 +1,34 @@
 #backNew {
-    background-image: url(../img/Background\ Shop.gif);
-    background-size: cover;
+  background-image: url(../img/Background\ Shop.gif);
+  background-size: cover;
 }
 
 #backgroundHome {
-    background-image: url(../img/Background\ Home.gif);
-    background-position: center;
-    background-size: cover;
+  background-image: url(../img/Background\ Home.gif);
+  background-position: center;
+  background-size: cover;
 }
-#backSale{
-    background-image: url(../img/Background\ Sale.gif);
-    background-size: cover;
-    
+
+#backSale {
+  background-image: url(../img/Background\ Sale.gif);
+  background-size: cover;
 }
+
 #backVerano {
-    background-image: url(../img/Pool.gif);
-    background-size: cover;
+  background-image: url(../img/Pool.gif);
+  background-size: cover;
 }
 
-.btn:hover{
-    background-image: url(../img/Background\ Sale.gif);
-    background-size: cover;
-    color: black;
+.btn:hover {
+  background-image: url(../img/Background\ Sale.gif);
+  background-size: cover;
+  color: black;
 }
 
-#backgroundSection{
-    background-image: url(../img/Background\ Section.gif);
-    background-size: cover;
-    width: 100%;
-
+#backgroundSection {
+  background-image: url(../img/Background\ Section.gif);
+  background-size: cover;
+  width: 100%;
 }
+
+/*# sourceMappingURL=estilos.css.map */
