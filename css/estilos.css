@@ -31,4 +31,22 @@
   width: 100%;
 }
 
+#backInvierno {
+  background-image: url(../img/Background\ Invierno.gif);
+  background-size: cover;
+}
+
+#logoFooter{
+  width: 100px;
+  height: 100px;
+}
+
+#textoFooter{
+  padding: 20px;
+  text-decoration: none;
+}
+
+#logosRedes{
+ padding-bottom: 20px;
+}
 /*# sourceMappingURL=estilos.css.map */
